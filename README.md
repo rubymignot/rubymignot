@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="images/Ruby.png" width="180" alt="Ruby Mignot" />
   
   # Ruby Mignot
   
